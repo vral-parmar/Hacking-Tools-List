@@ -1088,4 +1088,4 @@ reaver	1.4	Implements a brute force attack against wifi protected setup WPS regi
 it will helped?
 lets connect
 * Twitter https://twitter.com/vral_parmar
-* Insta htts://instagram.com/vral_parmar
+* Insta https://instagram.com/vral_parmar
